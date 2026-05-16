@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # test
 
 ## 项目说明
@@ -37,7 +36,3 @@
     git status
     git add .
     git commit -m "init project structure"
-=======
-# my-first-python-project
-mpv-test
->>>>>>> 306f5255ec281dd4f156c3537e1cd7f386f851ca
